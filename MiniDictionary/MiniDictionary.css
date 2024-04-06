@@ -1,0 +1,39 @@
+/* MiniDictionary.css */
+
+.mini-dictionary-container {
+    background-color: #fff;
+    color: #000;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 15px;
+  }
+  
+  .mini-dictionary-container input {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+  }
+  
+  .mini-dictionary-container button {
+    width: 100%;
+    padding: 12px;
+    box-sizing: border-box;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .mini-dictionary-container button:hover {
+    background-color: #45a049;
+  }
+  
+  .mini-dictionary-container div {
+    margin-top: 10px;
+    font-size: 16px;
+  }
+  

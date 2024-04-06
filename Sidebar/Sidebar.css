@@ -1,0 +1,40 @@
+.sidebar {
+    background-color: #272232;
+    color: #fff;
+    padding: 30px;
+    width: 220px;
+    height: 100%;
+  }
+  
+  .sidebar h2 {
+    margin-bottom: 20px;
+    color: #44d53d;
+  }
+  .sidebar ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .sidebar li {
+    padding: 10px;
+    margin-bottom: 5px;
+    background-color: #ffffff;
+    color: #000000;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .sidebar li:hover {
+    background-color: #555;
+  }
+
+.sidebar-link {
+
+      text-decoration: none; 
+      color: #0c0b0b; 
+
+}
+.sidebar-link-green{
+  color: #44d53d;
+  text-decoration: none;
+}
